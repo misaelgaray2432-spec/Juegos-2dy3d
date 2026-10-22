@@ -1,0 +1,212 @@
+[
+  {
+    "file": "assets_2d/balon_y_efectos/balones.png",
+    "width": 269,
+    "height": 61,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_2d/balon_y_efectos/celebraciones_y_efectos.png",
+    "width": 485,
+    "height": 82,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_2d/banderas/banderas_y_trapos.png",
+    "width": 330,
+    "height": 176,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_2d/cancha/cancha_completa.png",
+    "width": 242,
+    "height": 128,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_2d/cancha/texturas_y_lineas.png",
+    "width": 276,
+    "height": 130,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_2d/estadios/estadio_01.png",
+    "width": 251,
+    "height": 144,
+    "mode": "RGB",
+    "has_alpha": false
+  },
+  {
+    "file": "assets_2d/estadios/estadio_02.png",
+    "width": 242,
+    "height": 144,
+    "mode": "RGB",
+    "has_alpha": false
+  },
+  {
+    "file": "assets_2d/estadios/estadio_03.png",
+    "width": 248,
+    "height": 144,
+    "mode": "RGB",
+    "has_alpha": false
+  },
+  {
+    "file": "assets_2d/hinchas/hinchas_fila_1.png",
+    "width": 421,
+    "height": 80,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_2d/hinchas/hinchas_fila_2.png",
+    "width": 421,
+    "height": 88,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_2d/jugadores/jugadores_amarillo_azul.png",
+    "width": 753,
+    "height": 87,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_2d/jugadores/jugadores_rojo_blanco.png",
+    "width": 753,
+    "height": 109,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_2d/jugadores/porteros_y_arbitros.png",
+    "width": 753,
+    "height": 105,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_2d/porterias/porteria_frontal.png",
+    "width": 162,
+    "height": 115,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_2d/porterias/porteria_lateral.png",
+    "width": 97,
+    "height": 122,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_3d/balon_y_efectos/balones.png",
+    "width": 243,
+    "height": 61,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_3d/balon_y_efectos/celebraciones_y_efectos.png",
+    "width": 515,
+    "height": 82,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_3d/banderas/banderas_y_trapos.png",
+    "width": 343,
+    "height": 176,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_3d/cancha/cancha_completa.png",
+    "width": 233,
+    "height": 122,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_3d/cancha/texturas_y_lineas.png",
+    "width": 220,
+    "height": 126,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_3d/estadios/estadio_01.png",
+    "width": 247,
+    "height": 144,
+    "mode": "RGB",
+    "has_alpha": false
+  },
+  {
+    "file": "assets_3d/estadios/estadio_02.png",
+    "width": 237,
+    "height": 144,
+    "mode": "RGB",
+    "has_alpha": false
+  },
+  {
+    "file": "assets_3d/estadios/estadio_03.png",
+    "width": 260,
+    "height": 144,
+    "mode": "RGB",
+    "has_alpha": false
+  },
+  {
+    "file": "assets_3d/hinchas/hinchas_fila_1.png",
+    "width": 413,
+    "height": 83,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_3d/hinchas/hinchas_fila_2.png",
+    "width": 413,
+    "height": 89,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_3d/jugadores/jugadores_amarillo_azul.png",
+    "width": 756,
+    "height": 94,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_3d/jugadores/jugadores_rojo_blanco.png",
+    "width": 756,
+    "height": 115,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_3d/jugadores/porteros_y_arbitros.png",
+    "width": 756,
+    "height": 99,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_3d/porterias/porteria_frontal.png",
+    "width": 198,
+    "height": 111,
+    "mode": "RGBA",
+    "has_alpha": true
+  },
+  {
+    "file": "assets_3d/porterias/porteria_lateral.png",
+    "width": 147,
+    "height": 132,
+    "mode": "RGBA",
+    "has_alpha": true
+  }
+]

@@ -1,0 +1,748 @@
+id,segundo,equipo,jugador,evento,pais
+c721cb7d5081,17.1,0,E0_J0,tiro,
+c721cb7d5081,17.64,0,E0_J0,gol,
+c721cb7d5081,22.06,0,E0_J0,tiro,
+c721cb7d5081,22.61,0,E0_J0,gol,
+c721cb7d5081,23.94,0,E0_J0,tiro,
+c721cb7d5081,24.5,0,E0_J0,gol,
+4d8d32a3228f,12.67,0,E0_J0,tiro,
+4d8d32a3228f,13.21,0,E0_J0,gol,
+4d8d32a3228f,15.13,0,E0_J0,tiro,
+4d8d32a3228f,15.67,0,E0_J0,gol,
+4d8d32a3228f,21.95,1,E1_J0,tiro,
+4d8d32a3228f,22.48,1,E1_J0,gol,
+4d8d32a3228f,25.03,0,E0_J0,tiro,
+4d8d32a3228f,25.06,1,E1_J0,tiro,
+4d8d32a3228f,25.64,1,E1_J0,gol,
+4d8d32a3228f,28.02,0,E0_J0,tiro,
+4d8d32a3228f,28.55,0,E0_J0,gol,
+aa2f0b65f724,0.71,0,E0_J0,pase,
+aa2f0b65f724,0.71,0,E0_J1,pase,
+aa2f0b65f724,1.55,1,E1_J0,gol,
+aa2f0b65f724,2.08,0,E0_J0,pase,
+aa2f0b65f724,2.08,0,E0_J1,pase,
+aa2f0b65f724,2.94,1,E1_J0,gol,
+aa2f0b65f724,3.8,0,E0_J0,pase,
+aa2f0b65f724,3.8,0,E0_J1,pase,
+aa2f0b65f724,4.7,1,E1_J1,gol,
+541d00fffde9,7.28,0,E0_J0,tiro,
+541d00fffde9,7.81,0,E0_J0,gol,
+0bfa3b6f0b06,7.92,0,E0_J0,tiro,
+0bfa3b6f0b06,9.38,0,E0_J0,gol,
+c6b6b7e3bec9,8.06,0,E1_J1,tiro,
+c6b6b7e3bec9,9.74,0,E1_J1,gol,
+c6b6b7e3bec9,12.42,0,E1_J1,tiro,
+c6b6b7e3bec9,14.11,0,E1_J1,gol,
+c6b6b7e3bec9,22.11,0,E1_J1,pase,
+c6b6b7e3bec9,23.79,0,E1_J1,gol,
+c6b6b7e3bec9,25.55,0,E1_J1,pase,
+c6b6b7e3bec9,27.22,0,E1_J1,gol,
+c6b6b7e3bec9,29.64,0,E1_J1,pase,
+c6b6b7e3bec9,31.32,0,E1_J1,gol,
+1b82a82b2fdf,7.23,0,E1_J1,tiro,
+1b82a82b2fdf,8.46,0,E1_J1,gol,
+1b82a82b2fdf,9.21,0,E1_J1,tiro,
+1b82a82b2fdf,10.44,0,E1_J1,gol,
+1b82a82b2fdf,11.25,0,E1_J1,tiro,
+1b82a82b2fdf,12.46,0,E1_J1,gol,
+1b82a82b2fdf,13.23,0,E1_J1,tiro,
+1b82a82b2fdf,14.45,0,E1_J1,gol,
+1b82a82b2fdf,15.34,0,E1_J1,tiro,
+1b82a82b2fdf,16.57,0,E1_J1,gol,
+a20637d220c7,3.5,1,E2_J1,tiro,
+a20637d220c7,4.05,1,E2_J1,gol,
+a20637d220c7,8.45,1,E2_J1,tiro,
+a20637d220c7,9.37,1,E2_J1,tiro,
+a20637d220c7,9.65,1,E2_J1,gol,
+a20637d220c7,17.85,0,E1_J1,tiro,
+a20637d220c7,24.04,1,E2_J1,tiro,
+a20637d220c7,24.63,1,E2_J1,gol,
+a20637d220c7,30.24,0,E1_J1,tiro,
+a20637d220c7,30.95,0,E1_J1,gol,
+a20637d220c7,34.89,1,E2_J1,tiro,
+a20637d220c7,35.39,1,E2_J1,gol,
+a20637d220c7,41.19,0,E1_J1,tiro,
+a20637d220c7,41.68,0,E1_J1,gol,
+c2121b5f3167,3.34,1,E2_J1,tiro,
+c2121b5f3167,3.71,1,E2_J1,gol,
+c2121b5f3167,8.36,1,E2_J1,tiro,
+c2121b5f3167,9.37,1,E2_J1,tiro,
+c2121b5f3167,18.23,1,E2_J1,tiro,
+c2121b5f3167,18.6,1,E2_J1,gol,
+c2121b5f3167,22.26,1,E2_J1,tiro,
+c2121b5f3167,22.56,1,E2_J1,gol,
+28e301d0f3d7,3.22,1,E2_J1,tiro,
+28e301d0f3d7,3.59,1,E2_J1,gol,
+28e301d0f3d7,6.81,1,E2_J1,tiro,
+28e301d0f3d7,7.18,1,E2_J1,gol,
+28e301d0f3d7,10.58,1,E2_J1,tiro,
+28e301d0f3d7,10.89,1,E2_J1,gol,
+28e301d0f3d7,15.95,0,E1_J1,tiro,
+28e301d0f3d7,16.41,0,E1_J1,gol,
+28e301d0f3d7,18.56,1,E2_J1,tiro,
+28e301d0f3d7,18.9,1,E2_J1,gol,
+28e301d0f3d7,24.44,0,E1_J1,tiro,
+28e301d0f3d7,24.82,0,E1_J1,gol,
+28e301d0f3d7,27.01,1,E2_J1,tiro,
+28e301d0f3d7,27.3,1,E2_J1,gol,
+e10f49ec26db,3.5,1,E2_J1,tiro,
+e10f49ec26db,4.03,1,E2_J1,gol,
+e10f49ec26db,21.13,1,E2_J1,tiro,
+e10f49ec26db,21.63,1,E2_J1,gol,
+e10f49ec26db,27.88,0,E1_J1,tiro,
+e10f49ec26db,28.48,0,E1_J1,gol,
+e10f49ec26db,30.46,1,E2_J1,tiro,
+e10f49ec26db,31.05,1,E2_J1,gol,
+101765c2df8b,6.2,0,E1_J1,tiro,
+101765c2df8b,6.66,0,E1_J1,gol,
+101765c2df8b,8.63,1,E2_J1,tiro,
+101765c2df8b,9.21,1,E2_J1,gol,
+101765c2df8b,14.03,0,E1_J1,tiro,
+101765c2df8b,14.57,0,E1_J1,gol,
+101765c2df8b,16.52,1,E2_J1,tiro,
+101765c2df8b,17.81,1,E2_J1,tiro,
+101765c2df8b,35.25,0,E1_J1,tiro,
+101765c2df8b,35.69,0,E1_J1,gol,
+101765c2df8b,37.65,1,E2_J1,tiro,
+101765c2df8b,38.23,1,E2_J1,gol,
+04b69b957ee2,3.12,0,E1_J1,pase,
+04b69b957ee2,4.0,0,E1_J1,tiro,
+04b69b957ee2,4.48,0,E1_J1,gol,
+04b69b957ee2,6.64,1,E2_J1,tiro,
+04b69b957ee2,7.0,1,E2_J1,gol,
+04b69b957ee2,10.16,0,E1_J1,tiro,
+04b69b957ee2,10.72,0,E1_J1,gol,
+04b69b957ee2,13.44,1,E2_J1,tiro,
+04b69b957ee2,13.8,1,E2_J1,gol,
+04b69b957ee2,17.24,1,E2_J1,tiro,
+04b69b957ee2,17.56,1,E2_J1,gol,
+04b69b957ee2,21.2,0,E1_J1,tiro,
+04b69b957ee2,21.68,0,E1_J1,gol,
+04b69b957ee2,27.84,0,E1_J1,tiro,
+04b69b957ee2,28.48,0,E1_J1,gol,
+04b69b957ee2,33.12,0,E1_J1,tiro,
+04b69b957ee2,33.84,0,E1_J1,gol,
+3db15d5eccd6,7.66,0,E1_J1,tiro,
+3db15d5eccd6,7.91,0,E1_J1,gol,
+3db15d5eccd6,9.77,1,E2_J1,tiro,
+3db15d5eccd6,10.35,1,E2_J1,gol,
+3db15d5eccd6,15.34,0,E1_J1,tiro,
+3db15d5eccd6,15.82,0,E1_J1,gol,
+3db15d5eccd6,18.58,1,E2_J1,tiro,
+3db15d5eccd6,19.09,1,E2_J1,gol,
+3db15d5eccd6,24.28,0,E1_J1,tiro,
+3db15d5eccd6,25.11,0,E1_J1,tiro,
+3db15d5eccd6,25.26,0,E1_J1,gol,
+3db15d5eccd6,30.45,0,E1_J1,tiro,
+3db15d5eccd6,31.23,0,E1_J1,gol,
+3db15d5eccd6,33.11,1,E2_J1,tiro,
+3db15d5eccd6,33.69,1,E2_J1,gol,
+e54514d7143e,9.37,0,E1_J1,tiro,
+e54514d7143e,9.94,0,E1_J1,gol,
+ba0cdddd4174,4.04,0,E1_J1,tiro,
+ba0cdddd4174,4.6,0,E1_J1,gol,
+ba0cdddd4174,6.56,0,E1_J1,tiro,
+ba0cdddd4174,8.12,0,E1_J1,gol,
+ba0cdddd4174,11.96,0,E1_J1,tiro,
+ba0cdddd4174,12.44,0,E1_J1,gol,
+ba0cdddd4174,15.08,0,E1_J1,tiro,
+ba0cdddd4174,15.76,0,E1_J1,gol,
+dd9bfb04f548,3.44,1,E2_J1,tiro,
+dd9bfb04f548,3.76,1,E2_J1,gol,
+dd9bfb04f548,6.92,0,E1_J1,tiro,
+dd9bfb04f548,7.04,0,E1_J1,tiro,
+dd9bfb04f548,7.48,0,E1_J1,gol,
+dd9bfb04f548,9.64,1,E2_J1,tiro,
+dd9bfb04f548,10.0,1,E2_J1,gol,
+dd9bfb04f548,14.24,0,E1_J1,tiro,
+dd9bfb04f548,14.64,0,E1_J1,gol,
+dd9bfb04f548,16.84,0,E1_J1,tiro,
+dd9bfb04f548,17.88,0,E1_J1,gol,
+dd9bfb04f548,20.64,1,E2_J1,tiro,
+dd9bfb04f548,20.92,1,E2_J1,gol,
+dd9bfb04f548,25.88,0,E1_J1,tiro,
+dd9bfb04f548,26.4,0,E1_J1,gol,
+a6b02f0138c6,6.48,0,E1_J1,tiro,
+a6b02f0138c6,14.18,0,E1_J1,tiro,
+a6b02f0138c6,14.51,0,E1_J1,gol,
+f838175ad7ef,2.96,0,E1_J1,tiro,
+f838175ad7ef,3.48,0,E1_J1,gol,
+f838175ad7ef,5.64,1,E2_J1,tiro,
+f838175ad7ef,6.0,1,E2_J1,gol,
+f838175ad7ef,9.04,0,E1_J1,tiro,
+f838175ad7ef,9.64,0,E1_J1,gol,
+f838175ad7ef,13.24,0,E1_J1,tiro,
+f838175ad7ef,13.72,0,E1_J1,tiro,
+f838175ad7ef,14.4,0,E1_J1,gol,
+e6bff7da5728,2.92,0,E1_J1,tiro,
+e6bff7da5728,3.48,0,E1_J1,gol,
+cea01600db56,0.96,1,Pedro Reis,pase,Brasil
+cea01600db56,1.64,1,Pedro Reis,pase,Brasil
+cea01600db56,2.56,0,Julián Acosta,pase,Argentina
+cea01600db56,3.95,1,Pedro Reis,pase,Brasil
+cea01600db56,4.18,0,Franco Paredes,pase,Argentina
+cea01600db56,5.11,1,Davi Almeida,pase,Brasil
+cea01600db56,6.49,0,Franco Paredes,pase,Argentina
+cea01600db56,6.72,1,Pedro Reis,pase,Brasil
+cea01600db56,6.95,0,Franco Paredes,pase,Argentina
+cea01600db56,7.19,1,Pedro Reis,pase,Brasil
+cea01600db56,8.11,0,Julián Acosta,pase,Argentina
+cea01600db56,9.51,1,Pedro Reis,pase,Brasil
+cea01600db56,9.74,0,Franco Paredes,pase,Argentina
+cea01600db56,10.68,1,Davi Almeida,pase,Brasil
+cea01600db56,12.07,0,Franco Paredes,pase,Argentina
+cea01600db56,12.31,1,Pedro Reis,pase,Brasil
+cea01600db56,12.54,0,Franco Paredes,pase,Argentina
+cea01600db56,12.78,1,Pedro Reis,pase,Brasil
+cea01600db56,13.71,0,Julián Acosta,pase,Argentina
+cea01600db56,15.1,1,Pedro Reis,pase,Brasil
+cea01600db56,15.33,0,Franco Paredes,pase,Argentina
+cea01600db56,16.27,1,Davi Almeida,pase,Brasil
+cea01600db56,17.66,0,Franco Paredes,pase,Argentina
+cea01600db56,17.9,1,Pedro Reis,pase,Brasil
+cea01600db56,18.13,0,Franco Paredes,pase,Argentina
+cea01600db56,18.36,1,Pedro Reis,pase,Brasil
+cea01600db56,19.29,0,Julián Acosta,pase,Argentina
+cea01600db56,20.7,1,Pedro Reis,pase,Brasil
+cea01600db56,20.93,0,Franco Paredes,pase,Argentina
+cea01600db56,21.86,1,Davi Almeida,pase,Brasil
+cea01600db56,23.25,0,Franco Paredes,pase,Argentina
+cea01600db56,23.49,1,Pedro Reis,pase,Brasil
+cea01600db56,23.72,0,Franco Paredes,pase,Argentina
+cea01600db56,23.96,1,Pedro Reis,pase,Brasil
+cea01600db56,24.89,0,Julián Acosta,pase,Argentina
+cea01600db56,26.28,1,Pedro Reis,pase,Brasil
+cea01600db56,26.51,0,Franco Paredes,pase,Argentina
+cea01600db56,27.44,1,Davi Almeida,pase,Brasil
+cea01600db56,28.8,0,Franco Paredes,pase,Argentina
+cea01600db56,29.03,0,Franco Paredes,pase,Argentina
+cea01600db56,30.19,1,Davi Almeida,pase,Brasil
+cea01600db56,31.11,0,Franco Paredes,pase,Argentina
+cea01600db56,36.55,0,Benjamín Solís,tiro,Argentina
+cea01600db56,36.79,0,Benjamín Solís,gol,Argentina
+cea01600db56,37.13,1,Gabriel Moraes,pase,Brasil
+cea01600db56,37.35,0,Franco Paredes,pase,Argentina
+cea01600db56,37.58,1,Pedro Reis,pase,Brasil
+cea01600db56,37.82,1,Pedro Reis,pase,Brasil
+cea01600db56,38.05,0,Franco Paredes,pase,Argentina
+cea01600db56,39.2,1,Davi Almeida,pase,Brasil
+cea01600db56,40.12,0,Franco Paredes,pase,Argentina
+cea01600db56,41.06,1,Davi Almeida,pase,Brasil
+cea01600db56,42.47,0,Franco Paredes,pase,Argentina
+cea01600db56,42.7,1,Pedro Reis,pase,Brasil
+cea01600db56,42.94,0,Franco Paredes,pase,Argentina
+cea01600db56,43.17,1,Pedro Reis,pase,Brasil
+cea01600db56,44.11,0,Julián Acosta,pase,Argentina
+cea01600db56,45.51,1,Pedro Reis,pase,Brasil
+cea01600db56,45.74,0,Franco Paredes,pase,Argentina
+cea01600db56,46.67,1,Davi Almeida,pase,Brasil
+24b0978ec2c8,0.94,1,Pedro Reis,pase,Brasil
+24b0978ec2c8,1.87,1,Pedro Reis,pase,Brasil
+24b0978ec2c8,2.8,1,Vitor Alves,tiro,Brasil
+24b0978ec2c8,7.54,0,Mateo Ríos,tiro,Argentina
+24b0978ec2c8,21.41,0,Mateo Ríos,centro,Argentina
+24b0978ec2c8,23.0,0,Franco Paredes,pase,Argentina
+24b0978ec2c8,25.0,0,Santiago Moya,pase,Argentina
+24b0978ec2c8,25.55,1,Enzo Rocha,pase,Brasil
+24b0978ec2c8,28.33,0,Nicolás Vera,pase,Argentina
+24b0978ec2c8,28.4,0,Nicolás Vera,pase,Argentina
+24b0978ec2c8,29.5,1,Pedro Reis,pase,Brasil
+24b0978ec2c8,29.96,1,Pedro Reis,pase,Brasil
+24b0978ec2c8,31.12,1,Vitor Alves,tiro,Brasil
+24b0978ec2c8,31.34,1,Vitor Alves,tiro,Brasil
+24b0978ec2c8,32.02,1,Vitor Alves,gol,Brasil
+24b0978ec2c8,32.95,1,Pedro Reis,pase,Brasil
+24b0978ec2c8,37.82,0,Benjamín Solís,pase,Argentina
+24b0978ec2c8,39.68,1,João Viana,pase,Brasil
+24b0978ec2c8,42.23,1,Pedro Reis,pase,Brasil
+24b0978ec2c8,42.46,1,Pedro Reis,pase,Brasil
+24b0978ec2c8,42.69,1,Pedro Reis,pase,Brasil
+24b0978ec2c8,43.46,0,Franco Paredes,tiro,Argentina
+24b0978ec2c8,44.08,1,Enzo Rocha,pase,Brasil
+24b0978ec2c8,44.08,0,Santiago Moya,tiro,Argentina
+24b0978ec2c8,44.55,1,Enzo Rocha,pase,Brasil
+24b0978ec2c8,45.24,1,Pedro Reis,pase,Brasil
+24b0978ec2c8,45.47,1,Pedro Reis,pase,Brasil
+24b0978ec2c8,45.71,0,Franco Paredes,tiro,Argentina
+24b0978ec2c8,46.24,0,Santiago Moya,tiro,Argentina
+24b0978ec2c8,47.1,1,Pedro Reis,pase,Brasil
+24b0978ec2c8,47.33,1,Pedro Reis,pase,Brasil
+24b0978ec2c8,48.18,0,Franco Paredes,tiro,Argentina
+24b0978ec2c8,48.67,0,Santiago Moya,tiro,Argentina
+24b0978ec2c8,51.97,1,Enzo Rocha,pase,Brasil
+24b0978ec2c8,55.24,1,Pedro Reis,pase,Brasil
+24b0978ec2c8,57.09,0,Franco Paredes,tiro,Argentina
+24b0978ec2c8,64.73,0,Thiago Luna,pase,Argentina
+24b0978ec2c8,65.47,1,Davi Almeida,pase,Brasil
+24b0978ec2c8,65.94,1,Davi Almeida,pase,Brasil
+24b0978ec2c8,68.25,1,Vitor Alves,tiro,Brasil
+24b0978ec2c8,68.48,1,Vitor Alves,tiro,Brasil
+24b0978ec2c8,69.91,0,Mateo Ríos,pase,Argentina
+24b0978ec2c8,71.94,1,Pedro Reis,pase,Brasil
+24b0978ec2c8,72.17,1,Pedro Reis,pase,Brasil
+24b0978ec2c8,72.86,1,Vitor Alves,tiro,Brasil
+24b0978ec2c8,73.91,0,Mateo Ríos,pase,Argentina
+24b0978ec2c8,78.02,0,Santiago Moya,pase,Argentina
+24b0978ec2c8,79.81,0,Benjamín Solís,tiro,Argentina
+24b0978ec2c8,84.93,1,Pedro Reis,pase,Brasil
+24b0978ec2c8,88.09,0,Franco Paredes,tiro,Argentina
+24b0978ec2c8,92.21,0,Thiago Luna,pase,Argentina
+24b0978ec2c8,92.56,1,Pedro Reis,pase,Brasil
+24b0978ec2c8,92.79,1,Rafael Costa,pase,Brasil
+24b0978ec2c8,93.03,1,Rafael Costa,pase,Brasil
+24b0978ec2c8,93.54,0,Franco Paredes,pase,Argentina
+24b0978ec2c8,94.51,0,Santiago Moya,tiro,Argentina
+24b0978ec2c8,97.08,0,Damián Cruz,tiro,Argentina
+24b0978ec2c8,101.18,0,Santiago Moya,tiro,Argentina
+24b0978ec2c8,101.23,0,Santiago Moya,gol,Argentina
+24b0978ec2c8,101.61,1,Gabriel Moraes,pase,Brasil
+24b0978ec2c8,104.34,0,Nicolás Vera,tiro,Argentina
+24b0978ec2c8,105.29,1,Davi Almeida,pase,Brasil
+24b0978ec2c8,105.53,1,Davi Almeida,pase,Brasil
+24b0978ec2c8,107.71,0,Thiago Luna,tiro,Argentina
+24b0978ec2c8,108.63,0,Lautaro Gil,pase,Argentina
+24b0978ec2c8,110.56,0,Benjamín Solís,tiro,Argentina
+24b0978ec2c8,113.41,0,Santiago Moya,tiro,Argentina
+24b0978ec2c8,113.85,0,Santiago Moya,tiro,Argentina
+24b0978ec2c8,114.05,0,Santiago Moya,gol,Argentina
+24b0978ec2c8,114.35,1,Gabriel Moraes,pase,Brasil
+24b0978ec2c8,116.67,0,Nicolás Vera,tiro,Argentina
+24b0978ec2c8,117.05,0,Nicolás Vera,pase,Argentina
+24b0978ec2c8,119.66,0,Santiago Moya,tiro,Argentina
+24b0978ec2c8,121.62,0,Damián Cruz,pase,Argentina
+24b0978ec2c8,122.72,1,Enzo Rocha,pase,Brasil
+24b0978ec2c8,124.11,1,Pedro Reis,pase,Brasil
+24b0978ec2c8,125.28,1,Vitor Alves,tiro,Brasil
+24b0978ec2c8,126.5,0,Mateo Ríos,pase,Argentina
+24b0978ec2c8,127.62,0,Lautaro Gil,pase,Argentina
+24b0978ec2c8,132.45,0,Santiago Moya,tiro,Argentina
+0a5eb9605b2b,1.36,0,Benjamín Solís,pase,Argentina
+0a5eb9605b2b,2.44,1,Davi Almeida,pase,Brasil
+0a5eb9605b2b,3.16,1,Lucas Melo,pase,Brasil
+0a5eb9605b2b,5.64,0,Nicolás Vera,pase,Argentina
+0a5eb9605b2b,6.48,0,Franco Paredes,pase,Argentina
+0a5eb9605b2b,7.48,1,Lucas Melo,pase,Brasil
+0a5eb9605b2b,7.96,1,Davi Almeida,pase,Brasil
+0a5eb9605b2b,8.92,0,Santiago Moya,tiro,Argentina
+0a5eb9605b2b,8.96,0,Santiago Moya,tiro,Argentina
+0a5eb9605b2b,9.04,0,Santiago Moya,tiro,Argentina
+0a5eb9605b2b,13.48,1,João Viana,pase,Brasil
+0a5eb9605b2b,15.64,1,Gabriel Moraes,centro,Brasil
+d437afeaebae,2.44,0,Benjamín Solís,pase,Argentina
+d437afeaebae,8.68,0,Benjamín Solís,pase,Argentina
+d437afeaebae,8.92,0,Santiago Moya,tiro,Argentina
+d437afeaebae,10.84,1,Davi Almeida,pase,Brasil
+d437afeaebae,13.84,0,Franco Paredes,centro,Argentina
+d437afeaebae,14.92,1,Enzo Rocha,pase,Brasil
+d437afeaebae,15.64,1,Pedro Reis,pase,Brasil
+d437afeaebae,15.88,1,Pedro Reis,pase,Brasil
+d437afeaebae,17.08,1,Vitor Alves,tiro,Brasil
+d437afeaebae,17.64,0,Mateo Ríos,centro,Argentina
+d437afeaebae,18.4,0,Mateo Ríos,pase,Argentina
+38769dbb60a5,0.99,1,Pedro Reis,pase,Brasil
+38769dbb60a5,1.95,1,Vitor Alves,tiro,Brasil
+38769dbb60a5,3.67,0,Mateo Ríos,pase,Argentina
+38769dbb60a5,4.63,0,Mateo Ríos,pase,Argentina
+38769dbb60a5,5.07,1,Natan Lima,tiro,Brasil
+38769dbb60a5,5.31,1,Natan Lima,tiro,Brasil
+38769dbb60a5,5.55,1,Natan Lima,tiro,Brasil
+38769dbb60a5,5.79,1,Natan Lima,tiro,Brasil
+38769dbb60a5,5.99,0,Tomás Ibarra,pase,Argentina
+38769dbb60a5,6.47,0,Tomás Ibarra,pase,Argentina
+38769dbb60a5,9.59,0,Julián Acosta,pase,Argentina
+38769dbb60a5,10.35,1,Gabriel Moraes,tiro,Brasil
+38769dbb60a5,10.75,1,Gabriel Moraes,gol,Brasil
+38769dbb60a5,11.79,1,Pedro Reis,pase,Brasil
+38769dbb60a5,13.71,1,Pedro Reis,tiro,Brasil
+38769dbb60a5,14.07,1,Pedro Reis,gol,Brasil
+99233e169509,0.94,1,Pedro Reis,pase,Brasil
+99233e169509,1.17,1,Pedro Reis,pase,Brasil
+99233e169509,1.4,1,Pedro Reis,pase,Brasil
+99233e169509,8.76,0,Nicolás Vera,tiro,Argentina
+99233e169509,15.22,0,Santiago Moya,tiro,Argentina
+99233e169509,18.95,0,Damián Cruz,tiro,Argentina
+99233e169509,19.0,0,Damián Cruz,gol,Argentina
+99233e169509,19.26,1,Gabriel Moraes,pase,Brasil
+99233e169509,19.96,1,Gabriel Moraes,pase,Brasil
+99233e169509,21.8,1,Vitor Alves,tiro,Brasil
+99233e169509,22.4,1,Vitor Alves,gol,Brasil
+99233e169509,25.08,0,Benjamín Solís,pase,Argentina
+99233e169509,25.73,1,Davi Almeida,pase,Brasil
+99233e169509,28.74,1,Natan Lima,tiro,Brasil
+99233e169509,29.9,1,Natan Lima,tiro,Brasil
+99233e169509,30.36,1,Natan Lima,tiro,Brasil
+99233e169509,30.59,1,Natan Lima,tiro,Brasil
+99233e169509,30.82,1,Natan Lima,tiro,Brasil
+99233e169509,31.05,1,Natan Lima,tiro,Brasil
+99233e169509,31.29,1,Natan Lima,tiro,Brasil
+99233e169509,31.52,1,Natan Lima,tiro,Brasil
+99233e169509,31.75,1,Natan Lima,tiro,Brasil
+99233e169509,31.98,1,Natan Lima,tiro,Brasil
+99233e169509,32.21,1,Natan Lima,tiro,Brasil
+99233e169509,32.44,1,Natan Lima,tiro,Brasil
+99233e169509,32.67,1,Natan Lima,tiro,Brasil
+99233e169509,32.91,1,Natan Lima,tiro,Brasil
+99233e169509,33.14,1,Natan Lima,tiro,Brasil
+99233e169509,33.36,1,Natan Lima,tiro,Brasil
+99233e169509,33.59,1,Natan Lima,tiro,Brasil
+99233e169509,33.82,1,Natan Lima,tiro,Brasil
+99233e169509,34.06,1,Natan Lima,tiro,Brasil
+99233e169509,34.29,1,Natan Lima,tiro,Brasil
+99233e169509,34.52,1,Natan Lima,tiro,Brasil
+99233e169509,34.75,1,Natan Lima,tiro,Brasil
+99233e169509,34.98,1,Natan Lima,tiro,Brasil
+99233e169509,35.21,1,Natan Lima,tiro,Brasil
+99233e169509,35.45,1,Natan Lima,tiro,Brasil
+99233e169509,35.68,1,Natan Lima,tiro,Brasil
+99233e169509,35.91,1,Natan Lima,tiro,Brasil
+99233e169509,36.15,1,Natan Lima,tiro,Brasil
+99233e169509,36.37,1,Natan Lima,tiro,Brasil
+99233e169509,36.61,1,Natan Lima,tiro,Brasil
+99233e169509,36.84,1,Natan Lima,tiro,Brasil
+99233e169509,37.07,1,Natan Lima,tiro,Brasil
+99233e169509,37.3,1,Natan Lima,tiro,Brasil
+99233e169509,37.53,1,Natan Lima,tiro,Brasil
+99233e169509,37.77,1,Natan Lima,tiro,Brasil
+99233e169509,38.0,1,Natan Lima,tiro,Brasil
+99233e169509,38.23,1,Natan Lima,tiro,Brasil
+99233e169509,38.46,1,Natan Lima,tiro,Brasil
+99233e169509,38.7,1,Natan Lima,tiro,Brasil
+99233e169509,38.93,1,Natan Lima,tiro,Brasil
+99233e169509,39.16,1,Natan Lima,tiro,Brasil
+99233e169509,39.39,1,Natan Lima,tiro,Brasil
+99233e169509,39.63,1,Natan Lima,tiro,Brasil
+99233e169509,39.86,1,Natan Lima,tiro,Brasil
+99233e169509,40.08,1,Natan Lima,tiro,Brasil
+99233e169509,40.31,1,Natan Lima,tiro,Brasil
+99233e169509,40.54,1,Natan Lima,tiro,Brasil
+99233e169509,40.78,1,Natan Lima,tiro,Brasil
+99233e169509,41.01,1,Natan Lima,tiro,Brasil
+99233e169509,41.25,1,Natan Lima,tiro,Brasil
+99233e169509,41.48,1,Natan Lima,tiro,Brasil
+99233e169509,41.71,1,Natan Lima,tiro,Brasil
+99233e169509,41.95,1,Natan Lima,tiro,Brasil
+99233e169509,42.18,1,Natan Lima,tiro,Brasil
+99233e169509,42.41,1,Natan Lima,tiro,Brasil
+99233e169509,43.58,1,Natan Lima,tiro,Brasil
+99233e169509,53.01,0,Thiago Luna,tiro,Argentina
+99233e169509,57.9,0,Benjamín Solís,tiro,Argentina
+99233e169509,58.08,0,Benjamín Solís,gol,Argentina
+99233e169509,58.43,1,Gabriel Moraes,pase,Brasil
+855e612387f0,0.96,1,Pedro Reis,pase,Brasil
+855e612387f0,1.65,1,Pedro Reis,pase,Brasil
+855e612387f0,8.12,1,João Viana,pase,Brasil
+855e612387f0,9.27,1,Iago Freitas,pase,Brasil
+855e612387f0,10.42,1,Vitor Alves,tiro,Brasil
+855e612387f0,10.99,1,Vitor Alves,gol,Brasil
+855e612387f0,12.03,1,Pedro Reis,pase,Brasil
+855e612387f0,20.27,0,Nicolás Vera,tiro,Argentina
+855e612387f0,26.91,0,Damián Cruz,tiro,Argentina
+855e612387f0,29.58,0,Damián Cruz,tiro,Argentina
+855e612387f0,34.5,0,Thiago Luna,tiro,Argentina
+855e612387f0,39.31,1,Enzo Rocha,pase,Brasil
+855e612387f0,41.81,0,Franco Paredes,tiro,Argentina
+855e612387f0,42.1,1,Enzo Rocha,pase,Brasil
+855e612387f0,42.33,1,Enzo Rocha,pase,Brasil
+855e612387f0,45.12,1,Pedro Reis,pase,Brasil
+855e612387f0,46.59,0,Lautaro Gil,tiro,Argentina
+855e612387f0,47.19,0,Lautaro Gil,gol,Argentina
+855e612387f0,47.44,1,Gabriel Moraes,pase,Brasil
+d42250dc72d1,0.99,1,Pedro Reis,pase,Brasil
+d42250dc72d1,2.19,1,Vitor Alves,tiro,Brasil
+d42250dc72d1,13.95,1,Enzo Rocha,pase,Brasil
+d42250dc72d1,17.07,1,Vitor Alves,tiro,Brasil
+d42250dc72d1,17.47,1,Vitor Alves,gol,Brasil
+d42250dc72d1,18.51,1,Pedro Reis,pase,Brasil
+d42250dc72d1,19.71,1,Vitor Alves,tiro,Brasil
+d42250dc72d1,20.91,1,Vitor Alves,tiro,Brasil
+d42250dc72d1,21.63,1,Vitor Alves,tiro,Brasil
+d42250dc72d1,21.71,1,Vitor Alves,gol,Brasil
+d42250dc72d1,22.59,1,Pedro Reis,pase,Brasil
+d42250dc72d1,23.79,1,Vitor Alves,tiro,Brasil
+d42250dc72d1,24.99,1,Vitor Alves,tiro,Brasil
+d42250dc72d1,25.71,1,Vitor Alves,tiro,Brasil
+d42250dc72d1,25.79,1,Vitor Alves,gol,Brasil
+d42250dc72d1,26.67,1,Pedro Reis,pase,Brasil
+d42250dc72d1,27.87,1,Vitor Alves,tiro,Brasil
+d42250dc72d1,29.07,1,Vitor Alves,tiro,Brasil
+d42250dc72d1,29.79,1,Vitor Alves,tiro,Brasil
+d42250dc72d1,29.87,1,Vitor Alves,gol,Brasil
+d42250dc72d1,30.75,1,Pedro Reis,pase,Brasil
+d42250dc72d1,31.95,1,Vitor Alves,tiro,Brasil
+d42250dc72d1,33.15,1,Vitor Alves,tiro,Brasil
+83c0eb0c1ebf,0.94,1,Pedro Reis,pase,Brasil
+83c0eb0c1ebf,4.94,0,Benjamín Solís,pase,Argentina
+83c0eb0c1ebf,5.79,1,Davi Almeida,pase,Brasil
+83c0eb0c1ebf,6.94,1,Pedro Reis,pase,Brasil
+83c0eb0c1ebf,9.63,0,Franco Paredes,pase,Argentina
+83c0eb0c1ebf,11.1,0,Benjamín Solís,tiro,Argentina
+83c0eb0c1ebf,12.42,0,Benjamín Solís,tiro,Argentina
+83c0eb0c1ebf,13.41,1,João Viana,pase,Brasil
+83c0eb0c1ebf,15.24,1,Iago Freitas,pase,Brasil
+83c0eb0c1ebf,18.59,1,Iago Freitas,gol,Brasil
+83c0eb0c1ebf,19.63,1,Pedro Reis,pase,Brasil
+83c0eb0c1ebf,20.33,1,Pedro Reis,pase,Brasil
+83c0eb0c1ebf,20.56,1,Pedro Reis,pase,Brasil
+83c0eb0c1ebf,20.79,1,Pedro Reis,pase,Brasil
+83c0eb0c1ebf,21.24,1,Pedro Reis,pase,Brasil
+83c0eb0c1ebf,27.62,0,Nicolás Vera,pase,Argentina
+83c0eb0c1ebf,29.33,1,Enzo Rocha,pase,Brasil
+83c0eb0c1ebf,34.29,0,Franco Paredes,tiro,Argentina
+83c0eb0c1ebf,38.42,0,Santiago Moya,tiro,Argentina
+83c0eb0c1ebf,38.57,0,Santiago Moya,gol,Argentina
+83c0eb0c1ebf,38.81,1,Gabriel Moraes,pase,Brasil
+83c0eb0c1ebf,39.51,1,Gabriel Moraes,pase,Brasil
+83c0eb0c1ebf,40.43,1,Vitor Alves,tiro,Brasil
+83c0eb0c1ebf,40.66,1,Vitor Alves,tiro,Brasil
+83c0eb0c1ebf,42.64,0,Mateo Ríos,tiro,Argentina
+83c0eb0c1ebf,42.98,1,Natan Lima,tiro,Brasil
+83c0eb0c1ebf,44.14,1,Vitor Alves,tiro,Brasil
+83c0eb0c1ebf,45.56,0,Julián Acosta,pase,Argentina
+83c0eb0c1ebf,45.99,1,Natan Lima,centro,Brasil
+83c0eb0c1ebf,50.15,1,Vitor Alves,tiro,Brasil
+83c0eb0c1ebf,50.38,1,Vitor Alves,tiro,Brasil
+83c0eb0c1ebf,50.61,1,Vitor Alves,tiro,Brasil
+83c0eb0c1ebf,50.83,0,Julián Acosta,pase,Argentina
+83c0eb0c1ebf,51.04,0,Tomás Ibarra,pase,Argentina
+83c0eb0c1ebf,52.92,1,Lucas Melo,pase,Brasil
+83c0eb0c1ebf,54.63,0,Franco Paredes,pase,Argentina
+83c0eb0c1ebf,54.99,1,Iago Freitas,pase,Brasil
+83c0eb0c1ebf,55.22,1,Iago Freitas,pase,Brasil
+83c0eb0c1ebf,57.86,0,Nicolás Vera,pase,Argentina
+6ec28b08ed6d,0.99,1,Pedro Reis,pase,Brasil
+6ec28b08ed6d,3.15,1,Vitor Alves,tiro,Brasil
+6ec28b08ed6d,4.11,1,Vitor Alves,tiro,Brasil
+6ec28b08ed6d,4.83,1,Vitor Alves,tiro,Brasil
+6ec28b08ed6d,4.95,1,Vitor Alves,gol,Brasil
+6ec28b08ed6d,5.79,1,Pedro Reis,pase,Brasil
+6ec28b08ed6d,6.03,1,Pedro Reis,pase,Brasil
+6ec28b08ed6d,7.71,1,Vitor Alves,tiro,Brasil
+6ec28b08ed6d,8.67,1,Vitor Alves,tiro,Brasil
+6ec28b08ed6d,9.39,1,Vitor Alves,tiro,Brasil
+6ec28b08ed6d,9.47,1,Vitor Alves,gol,Brasil
+6ec28b08ed6d,10.35,1,Pedro Reis,pase,Brasil
+6ec28b08ed6d,12.51,1,Vitor Alves,tiro,Brasil
+6ec28b08ed6d,13.47,1,Vitor Alves,tiro,Brasil
+6ec28b08ed6d,14.19,1,Vitor Alves,tiro,Brasil
+6ec28b08ed6d,14.31,1,Vitor Alves,gol,Brasil
+6ec28b08ed6d,15.15,1,Pedro Reis,pase,Brasil
+6ec28b08ed6d,15.39,1,Pedro Reis,pase,Brasil
+6ec28b08ed6d,17.07,1,Vitor Alves,tiro,Brasil
+6ec28b08ed6d,18.03,1,Vitor Alves,tiro,Brasil
+6ec28b08ed6d,18.75,1,Vitor Alves,tiro,Brasil
+6ec28b08ed6d,18.83,1,Vitor Alves,gol,Brasil
+6ec28b08ed6d,19.71,1,Pedro Reis,pase,Brasil
+6ec28b08ed6d,21.87,1,Vitor Alves,tiro,Brasil
+6ec28b08ed6d,22.83,1,Vitor Alves,tiro,Brasil
+6ec28b08ed6d,23.55,1,Vitor Alves,tiro,Brasil
+6ec28b08ed6d,23.67,1,Vitor Alves,gol,Brasil
+b4614d184a01,0.94,1,Pedro Reis,pase,Brasil
+b4614d184a01,1.63,1,Pedro Reis,pase,Brasil
+b4614d184a01,2.55,1,Pedro Reis,pase,Brasil
+b4614d184a01,3.24,1,Pedro Reis,pase,Brasil
+b4614d184a01,4.15,1,Pedro Reis,pase,Brasil
+b4614d184a01,5.99,1,Vitor Alves,tiro,Brasil
+b4614d184a01,6.59,1,Vitor Alves,gol,Brasil
+b4614d184a01,7.59,1,Pedro Reis,pase,Brasil
+19c70d688cba,0.95,1,Pedro Reis,pase,Brasil
+19c70d688cba,1.65,1,Pedro Reis,pase,Brasil
+19c70d688cba,13.32,0,Mateo Ríos,pase,Argentina
+19c70d688cba,14.16,1,Davi Almeida,pase,Brasil
+19c70d688cba,16.71,1,Pedro Reis,pase,Brasil
+19c70d688cba,16.94,1,Pedro Reis,pase,Brasil
+19c70d688cba,17.17,1,Pedro Reis,pase,Brasil
+19c70d688cba,18.52,0,Franco Paredes,tiro,Argentina
+19c70d688cba,21.78,0,Santiago Moya,tiro,Argentina
+19c70d688cba,23.35,0,Santiago Moya,tiro,Argentina
+19c70d688cba,29.42,1,Enzo Rocha,pase,Brasil
+0ca9c23f3e3e,1.0,1,Pedro Reis,pase,Brasil
+34891006a8a7,1.0,1,Pedro Reis,pase,Brasil
+34891006a8a7,3.16,1,Vitor Alves,tiro,Brasil
+34891006a8a7,4.12,1,Vitor Alves,tiro,Brasil
+34891006a8a7,5.08,1,Vitor Alves,tiro,Brasil
+34891006a8a7,5.16,1,Vitor Alves,gol,Brasil
+d0cc62eea148,1.0,1,Pedro Reis,pase,Brasil
+a27eb19b3f19,1.0,1,Pedro Reis,pase,Brasil
+a27eb19b3f19,3.16,1,Vitor Alves,tiro,Brasil
+a27eb19b3f19,4.36,1,Vitor Alves,tiro,Brasil
+a27eb19b3f19,5.08,1,Vitor Alves,tiro,Brasil
+a27eb19b3f19,5.16,1,Vitor Alves,gol,Brasil
+a27eb19b3f19,6.04,1,Pedro Reis,pase,Brasil
+668b516c453d,0.92,1,Pedro Reis,pase,Brasil
+668b516c453d,1.85,1,Pedro Reis,pase,Brasil
+aa57b0769bc2,1.0,1,Pedro Reis,pase,Brasil
+aa57b0769bc2,2.2,1,Vitor Alves,tiro,Brasil
+bb790e6443b2,1.0,1,Pedro Reis,pase,Brasil
+24b25e6b5033,0.95,1,Pedro Reis,pase,Brasil
+24b25e6b5033,1.64,1,Pedro Reis,pase,Brasil
+24b25e6b5033,2.57,1,Pedro Reis,pase,Brasil
+24b25e6b5033,3.27,1,Pedro Reis,pase,Brasil
+24b25e6b5033,4.43,1,Vitor Alves,tiro,Brasil
+24b25e6b5033,10.47,1,Enzo Rocha,pase,Brasil
+24b25e6b5033,13.72,1,João Viana,pase,Brasil
+24b25e6b5033,24.18,0,Lautaro Gil,tiro,Argentina
+24b25e6b5033,24.33,0,Lautaro Gil,gol,Argentina
+24b25e6b5033,24.59,1,Gabriel Moraes,pase,Brasil
+24b25e6b5033,25.29,1,Gabriel Moraes,pase,Brasil
+24b25e6b5033,27.15,1,Vitor Alves,tiro,Brasil
+24b25e6b5033,27.75,1,Vitor Alves,gol,Brasil
+24b25e6b5033,28.78,1,Pedro Reis,pase,Brasil
+24b25e6b5033,29.47,1,Pedro Reis,pase,Brasil
+24b25e6b5033,30.63,1,Vitor Alves,tiro,Brasil
+24b25e6b5033,32.03,1,Vitor Alves,tiro,Brasil
+24b25e6b5033,32.95,1,Vitor Alves,tiro,Brasil
+24b25e6b5033,33.0,1,Vitor Alves,gol,Brasil
+24b25e6b5033,33.88,1,Pedro Reis,pase,Brasil
+24b25e6b5033,34.81,1,Pedro Reis,pase,Brasil
+24b25e6b5033,35.97,1,Vitor Alves,tiro,Brasil
+24b25e6b5033,37.37,1,Vitor Alves,tiro,Brasil
+24b25e6b5033,38.3,1,Vitor Alves,tiro,Brasil
+24b25e6b5033,38.35,1,Vitor Alves,gol,Brasil
+24b25e6b5033,39.22,1,Pedro Reis,pase,Brasil
+24b25e6b5033,40.15,1,Pedro Reis,pase,Brasil
+24b25e6b5033,41.3,1,Vitor Alves,tiro,Brasil
+4dda0cf3ce6d,0.99,1,Pedro Reis,pase,Brasil
+4dda0cf3ce6d,2.19,1,Vitor Alves,tiro,Brasil
+4dda0cf3ce6d,7.23,1,Enzo Rocha,pase,Brasil
+4dda0cf3ce6d,7.95,1,Pedro Reis,pase,Brasil
+4dda0cf3ce6d,8.19,1,Pedro Reis,pase,Brasil
+4dda0cf3ce6d,8.91,0,Franco Paredes,tiro,Argentina
+4dda0cf3ce6d,9.27,0,Santiago Moya,tiro,Argentina
+4dda0cf3ce6d,10.47,0,Damián Cruz,tiro,Argentina
+0034c6f412a3,1.0,1,Pedro Reis,pase,Brasil
+0034c6f412a3,2.2,1,Vitor Alves,tiro,Brasil
+0034c6f412a3,2.44,1,Vitor Alves,tiro,Brasil
+0034c6f412a3,4.12,1,Vitor Alves,tiro,Brasil
+0034c6f412a3,6.24,0,Bruno Sosa,tiro,Argentina
+0034c6f412a3,6.56,0,Bruno Sosa,tiro,Argentina
+0034c6f412a3,7.24,1,João Viana,pase,Brasil
+0034c6f412a3,7.24,0,Bruno Sosa,tiro,Argentina
+0034c6f412a3,7.48,1,João Viana,pase,Brasil
+1c25f69d56b0,1.0,1,Pedro Reis,pase,Brasil
+1c25f69d56b0,2.2,1,Vitor Alves,tiro,Brasil
+1c25f69d56b0,4.84,1,Vitor Alves,tiro,Brasil
+1c25f69d56b0,8.72,0,Mateo Ríos,tiro,Argentina
+1c25f69d56b0,9.32,0,Santiago Moya,tiro,Argentina
+1c25f69d56b0,9.36,0,Santiago Moya,tiro,Argentina
+1c25f69d56b0,9.4,0,Santiago Moya,tiro,Argentina
+1c25f69d56b0,9.44,0,Santiago Moya,tiro,Argentina
+1c25f69d56b0,9.48,0,Santiago Moya,tiro,Argentina
+1c25f69d56b0,9.52,0,Santiago Moya,tiro,Argentina
+1c25f69d56b0,9.56,0,Santiago Moya,tiro,Argentina
+1c25f69d56b0,9.6,0,Santiago Moya,tiro,Argentina
+1c25f69d56b0,9.64,0,Santiago Moya,tiro,Argentina
+1c25f69d56b0,9.68,0,Santiago Moya,tiro,Argentina
+1c25f69d56b0,9.72,0,Santiago Moya,tiro,Argentina
+1c25f69d56b0,9.76,0,Santiago Moya,tiro,Argentina
+1c25f69d56b0,9.8,0,Santiago Moya,tiro,Argentina
+1c25f69d56b0,10.92,0,Santiago Moya,tiro,Argentina
+1c25f69d56b0,10.96,0,Santiago Moya,tiro,Argentina
+1c25f69d56b0,11.0,0,Santiago Moya,tiro,Argentina
+1c25f69d56b0,11.8,0,Santiago Moya,tiro,Argentina
+1c25f69d56b0,11.84,0,Santiago Moya,gol,Argentina
+1c25f69d56b0,12.04,1,Gabriel Moraes,pase,Brasil
+1c25f69d56b0,12.52,1,Pedro Reis,pase,Brasil
+c57cc4fad3f9,1.0,1,Pedro Reis,pase,Brasil
+c57cc4fad3f9,2.2,1,Vitor Alves,tiro,Brasil
+c57cc4fad3f9,4.36,1,Natan Lima,centro,Brasil
+c57cc4fad3f9,5.2,1,Natan Lima,gol,Brasil
+c57cc4fad3f9,6.04,1,Pedro Reis,pase,Brasil
+c57cc4fad3f9,7.96,1,Vitor Alves,tiro,Brasil
+c57cc4fad3f9,11.32,1,Vitor Alves,tiro,Brasil
+c57cc4fad3f9,12.04,1,Vitor Alves,tiro,Brasil
+c57cc4fad3f9,13.24,1,Vitor Alves,tiro,Brasil
+c57cc4fad3f9,14.44,1,Natan Lima,tiro,Brasil
+c57cc4fad3f9,15.16,1,Natan Lima,tiro,Brasil
+c57cc4fad3f9,15.28,1,Natan Lima,gol,Brasil
+c57cc4fad3f9,16.12,1,Pedro Reis,pase,Brasil
+c57cc4fad3f9,16.36,1,Pedro Reis,pase,Brasil
+e06baac67441,1.0,1,Enzo Rocha,pase,Brasil
+e06baac67441,2.68,1,Lucas Melo,tiro,Brasil
+e06baac67441,5.08,1,Lucas Melo,tiro,Brasil
+e06baac67441,6.04,1,Lucas Melo,tiro,Brasil
+e06baac67441,7.24,1,Pedro Reis,tiro,Brasil
+e06baac67441,7.32,1,Pedro Reis,gol,Brasil
+e06baac67441,8.2,1,Enzo Rocha,pase,Brasil
+75ae35499aba,1.0,1,Enzo Rocha,pase,Brasil
+75ae35499aba,2.2,1,Lucas Melo,tiro,Brasil
+75ae35499aba,3.88,1,Lucas Melo,tiro,Brasil
+75ae35499aba,4.0,1,Lucas Melo,gol,Brasil
+75ae35499aba,4.92,0,Franco Paredes,tiro,Argentina
+75ae35499aba,5.6,0,Franco Paredes,tiro,Argentina
+75ae35499aba,8.68,0,Franco Paredes,tiro,Argentina
+75ae35499aba,11.0,0,Franco Paredes,tiro,Argentina
+75ae35499aba,11.4,0,Franco Paredes,tiro,Argentina
+75ae35499aba,11.6,0,Franco Paredes,tiro,Argentina
+75ae35499aba,11.8,1,Enzo Rocha,pase,Brasil
+75ae35499aba,11.8,0,Franco Paredes,tiro,Argentina
+75ae35499aba,12.04,1,Enzo Rocha,pase,Brasil
+75ae35499aba,12.28,1,Enzo Rocha,pase,Brasil
+75ae35499aba,12.28,0,Franco Paredes,tiro,Argentina
+75ae35499aba,12.52,1,Enzo Rocha,pase,Brasil
+75ae35499aba,12.52,0,Franco Paredes,tiro,Argentina
+75ae35499aba,12.68,0,Franco Paredes,tiro,Argentina
+75ae35499aba,12.76,0,Franco Paredes,tiro,Argentina
+75ae35499aba,12.84,0,Franco Paredes,tiro,Argentina
+75ae35499aba,12.92,0,Franco Paredes,tiro,Argentina
+75ae35499aba,13.0,0,Franco Paredes,tiro,Argentina
+75ae35499aba,13.08,0,Franco Paredes,tiro,Argentina
+75ae35499aba,13.16,0,Franco Paredes,tiro,Argentina
+75ae35499aba,13.24,0,Franco Paredes,tiro,Argentina
+75ae35499aba,13.32,0,Franco Paredes,tiro,Argentina
+75ae35499aba,14.44,1,Lucas Melo,tiro,Brasil
+75ae35499aba,14.92,1,Lucas Melo,gol,Brasil
+0cac6369c031,0.99,1,Enzo Rocha,pase,Brasil
+0cac6369c031,4.35,1,Lucas Melo,tiro,Brasil
+0cac6369c031,5.07,1,Lucas Melo,tiro,Brasil
+0cac6369c031,7.95,1,João Viana,pase,Brasil
+0cac6369c031,8.67,1,Pedro Reis,centro,Brasil
+0cac6369c031,10.83,1,Pedro Reis,tiro,Brasil
+0cac6369c031,10.87,1,Pedro Reis,gol,Brasil
+0cac6369c031,12.03,1,Enzo Rocha,pase,Brasil
+6c1b9a6fd0b9,1.47,1,Enzo Rocha,pase,Brasil
+6c1b9a6fd0b9,2.67,1,Enzo Rocha,pase,Brasil
+6c1b9a6fd0b9,3.87,1,Lucas Melo,tiro,Brasil
+6c1b9a6fd0b9,4.31,1,Lucas Melo,gol,Brasil
+6c1b9a6fd0b9,5.55,1,Enzo Rocha,pase,Brasil
+6c1b9a6fd0b9,6.79,0,Franco Paredes,tiro,Argentina
+6c1b9a6fd0b9,7.39,0,Franco Paredes,tiro,Argentina
+6c1b9a6fd0b9,7.67,0,Franco Paredes,tiro,Argentina
+6c1b9a6fd0b9,13.31,0,Thiago Luna,tiro,Argentina
+6c1b9a6fd0b9,15.11,0,Thiago Luna,pase,Argentina
+6c1b9a6fd0b9,16.87,0,Nicolás Vera,pase,Argentina
+6c1b9a6fd0b9,17.07,1,Enzo Rocha,pase,Brasil
+6c1b9a6fd0b9,17.31,1,Enzo Rocha,pase,Brasil
+6c1b9a6fd0b9,18.99,1,Lucas Melo,tiro,Brasil
+6c1b9a6fd0b9,19.39,1,Lucas Melo,gol,Brasil
+6c1b9a6fd0b9,21.87,1,Lucas Melo,tiro,Brasil
+6c1b9a6fd0b9,23.55,1,Lucas Melo,tiro,Brasil
+a7467979c4cd,1.47,1,Enzo Rocha,pase,Brasil
+a7467979c4cd,2.67,1,Enzo Rocha,pase,Brasil
+a7467979c4cd,4.11,1,Lucas Melo,tiro,Brasil
+a7467979c4cd,4.51,1,Lucas Melo,gol,Brasil
+a7467979c4cd,5.79,1,Enzo Rocha,pase,Brasil
+a7467979c4cd,6.75,1,Enzo Rocha,pase,Brasil
+a7467979c4cd,7.47,1,Enzo Rocha,pase,Brasil
+a7467979c4cd,8.19,1,Enzo Rocha,pase,Brasil
+2d366de45782,1.24,1,Enzo Rocha,pase,Brasil
+2d366de45782,2.2,1,Enzo Rocha,pase,Brasil
+2d366de45782,2.92,1,Enzo Rocha,pase,Brasil
+2d366de45782,3.64,1,Enzo Rocha,pase,Brasil
+2d366de45782,4.6,1,Enzo Rocha,pase,Brasil
+2d366de45782,5.32,1,Enzo Rocha,pase,Brasil
+2d366de45782,7.96,1,Enzo Rocha,tiro,Brasil
+2d366de45782,8.32,1,Enzo Rocha,gol,Brasil
+2d366de45782,9.8,0,Franco Paredes,tiro,Argentina
+2d366de45782,10.08,0,Franco Paredes,tiro,Argentina
+2d366de45782,10.12,0,Franco Paredes,tiro,Argentina
+2d366de45782,10.16,0,Franco Paredes,tiro,Argentina
+2d366de45782,10.64,0,Franco Paredes,tiro,Argentina
+2d366de45782,10.72,0,Franco Paredes,tiro,Argentina
+f02ac7142958,0.95,1,Pedro Reis,pase,Brasil
+f02ac7142958,1.64,1,Pedro Reis,pase,Brasil
+f02ac7142958,4.17,1,Gabriel Moraes,tiro,Brasil
+f02ac7142958,12.6,0,Bruno Sosa,centro,Argentina
+f02ac7142958,16.44,1,Enzo Rocha,pase,Brasil
+f02ac7142958,16.8,0,Franco Paredes,pase,Argentina
+f02ac7142958,17.83,1,Pedro Reis,pase,Brasil
+f02ac7142958,22.39,0,Franco Paredes,tiro,Argentina

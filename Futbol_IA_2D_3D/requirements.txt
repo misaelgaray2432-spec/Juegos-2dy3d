@@ -1,0 +1,6 @@
+pygame
+ursina
+pandas
+scikit-learn
+tensorflow
+pyttsx3

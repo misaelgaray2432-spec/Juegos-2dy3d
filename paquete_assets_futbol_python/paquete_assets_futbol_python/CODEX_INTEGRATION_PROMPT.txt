@@ -1,0 +1,24 @@
+INSTRUCCIONES PARA CODEX: INTEGRAR ASSETS EN EL VIDEOJUEGO EXISTENTE
+
+Trabaja sobre el proyecto Python/Pygame que ya existe en esta carpeta. Primero inspecciona la estructura, el punto de entrada, las rutas de recursos, la resolucion de ventana, la camara y el sistema de dibujo actual. No reconstruyas el juego desde cero y no sobrescribas logica funcional.
+
+En el proyecto se han agregado dos carpetas:
+- assets_2d/: estilo 2D ilustrado.
+- assets_3d/: imagenes 2D prerenderizadas con aspecto realista/volumetrico (no son modelos 3D).
+
+OBJETIVO
+Integra los recursos visuales de forma modular y conserva el juego funcional. Pregunta o selecciona una sola carpeta de estilo mediante una constante de configuracion facil de cambiar (por ejemplo, ASSET_STYLE = "2d" o "3d"). No cargues las dos versiones al mismo tiempo si no hace falta.
+
+REGLAS
+1. No elimines ni renombres archivos existentes. Si necesitas crear un archivo, usa un nombre nuevo y explica su funcion.
+2. Usa pathlib para construir rutas robustas relativas a la raiz del proyecto o al archivo actual; no uses rutas absolutas del equipo.
+3. Carga PNG con pygame.image.load(path).convert_alpha() cuando corresponda; captura pygame.error / FileNotFoundError y agrega un fallback visible.
+4. Para estadios, usa una imagen como fondo de la vista de transmision y ajustala sin deformarla si es posible. Dibuja cancha, porteria, jugadores, hinchas y efectos en capas correctas segun la camara y el orden de dibujo que ya use el juego.
+5. Los archivos de jugadores, hinchas, banderas y efectos son tiras/categorias recortadas; NO las uses como si cada archivo fuera un personaje individual. Inspecciona dimensiones y separa sprites solo con coordenadas verificables. Si no hay coordenadas claras, usa el recurso como tira decorativa provisional o crea un recortador/configuracion independiente.
+6. No uses el fondo de estadio si el juego tiene una camara/cancha vista desde arriba incompatible; elige el recurso mas compatible y manten la escala consistente.
+7. Mantiene intactos controles, colisiones, fisica, marcador, goles y reglas actuales. No inventes nuevas dependencias.
+8. Prueba que el juego inicia. Corrige errores de rutas, conversion de imagen o escalado antes de terminar.
+9. Al final, informa los archivos nuevos/modificados, el estilo seleccionado, como cambiar entre 2D y 3D, y comandos exactos para ejecutar y probar.
+10. Si la estructura existente hace que una fusion directa sea riesgosa, crea un modulo nuevo de carga de recursos y conecta el minimo punto necesario.
+
+Primero presenta un breve plan basado en el codigo real, luego realiza la integracion y verifica que el proyecto siga funcionando.

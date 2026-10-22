@@ -1,0 +1,185 @@
+id,equipo,jugador,goles,tiros,pases,pais,centros
+c721cb7d5081,0,E0_J0,3,3,0,,
+4d8d32a3228f,0,E0_J0,3,4,0,,
+4d8d32a3228f,1,E1_J0,2,2,0,,
+aa2f0b65f724,0,E0_J0,0,0,3,,
+aa2f0b65f724,0,E0_J1,0,0,3,,
+aa2f0b65f724,1,E1_J0,2,0,0,,
+aa2f0b65f724,1,E1_J1,1,0,0,,
+541d00fffde9,0,E0_J0,1,1,0,,
+0bfa3b6f0b06,0,E0_J0,1,1,0,,
+c6b6b7e3bec9,0,E1_J1,5,2,3,,
+1b82a82b2fdf,0,E1_J1,5,5,0,,
+a20637d220c7,1,E2_J1,4,5,0,,
+a20637d220c7,0,E1_J1,2,3,0,,
+c2121b5f3167,1,E2_J1,3,5,0,,
+28e301d0f3d7,1,E2_J1,5,5,0,,
+28e301d0f3d7,0,E1_J1,2,2,0,,
+e10f49ec26db,1,E2_J1,3,3,0,,
+e10f49ec26db,0,E1_J1,1,1,0,,
+101765c2df8b,0,E1_J1,3,3,0,,
+101765c2df8b,1,E2_J1,2,4,0,,
+04b69b957ee2,0,E1_J1,5,5,1,,
+04b69b957ee2,1,E2_J1,3,3,0,,
+3db15d5eccd6,0,E1_J1,4,5,0,,
+3db15d5eccd6,1,E2_J1,3,3,0,,
+e54514d7143e,0,E1_J1,1,1,0,,
+ba0cdddd4174,0,E1_J1,4,4,0,,
+dd9bfb04f548,1,E2_J1,3,3,0,,
+dd9bfb04f548,0,E1_J1,4,5,0,,
+a6b02f0138c6,0,E1_J1,1,2,0,,
+f838175ad7ef,0,E1_J1,3,4,0,,
+f838175ad7ef,1,E2_J1,1,1,0,,
+e6bff7da5728,0,E1_J1,1,1,0,,
+cea01600db56,1,Pedro Reis,0,0,20,Brasil,0.0
+cea01600db56,0,Julián Acosta,0,0,6,Argentina,0.0
+cea01600db56,0,Franco Paredes,0,0,22,Argentina,0.0
+cea01600db56,1,Davi Almeida,0,0,9,Brasil,0.0
+cea01600db56,0,Benjamín Solís,1,1,0,Argentina,0.0
+cea01600db56,1,Gabriel Moraes,0,0,1,Brasil,0.0
+24b0978ec2c8,1,Pedro Reis,0,0,18,Brasil,0.0
+24b0978ec2c8,1,Vitor Alves,1,7,0,Brasil,0.0
+24b0978ec2c8,0,Mateo Ríos,0,1,3,Argentina,1.0
+24b0978ec2c8,0,Franco Paredes,0,5,2,Argentina,0.0
+24b0978ec2c8,0,Santiago Moya,2,9,2,Argentina,0.0
+24b0978ec2c8,1,Enzo Rocha,0,0,5,Brasil,0.0
+24b0978ec2c8,0,Nicolás Vera,0,2,3,Argentina,0.0
+24b0978ec2c8,0,Benjamín Solís,0,2,1,Argentina,0.0
+24b0978ec2c8,1,João Viana,0,0,1,Brasil,0.0
+24b0978ec2c8,0,Thiago Luna,0,1,2,Argentina,0.0
+24b0978ec2c8,1,Davi Almeida,0,0,4,Brasil,0.0
+24b0978ec2c8,1,Rafael Costa,0,0,2,Brasil,0.0
+24b0978ec2c8,0,Damián Cruz,0,1,1,Argentina,0.0
+24b0978ec2c8,1,Gabriel Moraes,0,0,2,Brasil,0.0
+24b0978ec2c8,0,Lautaro Gil,0,0,2,Argentina,0.0
+0a5eb9605b2b,0,Benjamín Solís,0,0,1,Argentina,0.0
+0a5eb9605b2b,1,Davi Almeida,0,0,2,Brasil,0.0
+0a5eb9605b2b,1,Lucas Melo,0,0,2,Brasil,0.0
+0a5eb9605b2b,0,Nicolás Vera,0,0,1,Argentina,0.0
+0a5eb9605b2b,0,Franco Paredes,0,0,1,Argentina,0.0
+0a5eb9605b2b,0,Santiago Moya,0,3,0,Argentina,0.0
+0a5eb9605b2b,1,João Viana,0,0,1,Brasil,0.0
+0a5eb9605b2b,1,Gabriel Moraes,0,0,0,Brasil,1.0
+d437afeaebae,0,Benjamín Solís,0,0,2,Argentina,0.0
+d437afeaebae,0,Santiago Moya,0,1,0,Argentina,0.0
+d437afeaebae,1,Davi Almeida,0,0,1,Brasil,0.0
+d437afeaebae,0,Franco Paredes,0,0,0,Argentina,1.0
+d437afeaebae,1,Enzo Rocha,0,0,1,Brasil,0.0
+d437afeaebae,1,Pedro Reis,0,0,2,Brasil,0.0
+d437afeaebae,1,Vitor Alves,0,1,0,Brasil,0.0
+d437afeaebae,0,Mateo Ríos,0,0,1,Argentina,1.0
+38769dbb60a5,1,Pedro Reis,1,1,2,Brasil,0.0
+38769dbb60a5,1,Vitor Alves,0,1,0,Brasil,0.0
+38769dbb60a5,0,Mateo Ríos,0,0,2,Argentina,0.0
+38769dbb60a5,1,Natan Lima,0,4,0,Brasil,0.0
+38769dbb60a5,0,Tomás Ibarra,0,0,2,Argentina,0.0
+38769dbb60a5,0,Julián Acosta,0,0,1,Argentina,0.0
+38769dbb60a5,1,Gabriel Moraes,1,1,0,Brasil,0.0
+99233e169509,1,Pedro Reis,0,0,3,Brasil,0.0
+99233e169509,0,Nicolás Vera,0,1,0,Argentina,0.0
+99233e169509,0,Santiago Moya,0,1,0,Argentina,0.0
+99233e169509,0,Damián Cruz,1,1,0,Argentina,0.0
+99233e169509,1,Gabriel Moraes,0,0,3,Brasil,0.0
+99233e169509,1,Vitor Alves,1,1,0,Brasil,0.0
+99233e169509,0,Benjamín Solís,1,1,1,Argentina,0.0
+99233e169509,1,Davi Almeida,0,0,1,Brasil,0.0
+99233e169509,1,Natan Lima,0,56,0,Brasil,0.0
+99233e169509,0,Thiago Luna,0,1,0,Argentina,0.0
+855e612387f0,1,Pedro Reis,0,0,4,Brasil,0.0
+855e612387f0,1,João Viana,0,0,1,Brasil,0.0
+855e612387f0,1,Iago Freitas,0,0,1,Brasil,0.0
+855e612387f0,1,Vitor Alves,1,1,0,Brasil,0.0
+855e612387f0,0,Nicolás Vera,0,1,0,Argentina,0.0
+855e612387f0,0,Damián Cruz,0,2,0,Argentina,0.0
+855e612387f0,0,Thiago Luna,0,1,0,Argentina,0.0
+855e612387f0,1,Enzo Rocha,0,0,3,Brasil,0.0
+855e612387f0,0,Franco Paredes,0,1,0,Argentina,0.0
+855e612387f0,0,Lautaro Gil,1,1,0,Argentina,0.0
+855e612387f0,1,Gabriel Moraes,0,0,1,Brasil,0.0
+d42250dc72d1,1,Pedro Reis,0,0,5,Brasil,0.0
+d42250dc72d1,1,Vitor Alves,4,13,0,Brasil,0.0
+d42250dc72d1,1,Enzo Rocha,0,0,1,Brasil,0.0
+83c0eb0c1ebf,1,Pedro Reis,0,0,7,Brasil,0.0
+83c0eb0c1ebf,0,Benjamín Solís,0,2,1,Argentina,0.0
+83c0eb0c1ebf,1,Davi Almeida,0,0,1,Brasil,0.0
+83c0eb0c1ebf,0,Franco Paredes,0,1,2,Argentina,0.0
+83c0eb0c1ebf,1,João Viana,0,0,1,Brasil,0.0
+83c0eb0c1ebf,1,Iago Freitas,1,0,3,Brasil,0.0
+83c0eb0c1ebf,0,Nicolás Vera,0,0,2,Argentina,0.0
+83c0eb0c1ebf,1,Enzo Rocha,0,0,1,Brasil,0.0
+83c0eb0c1ebf,0,Santiago Moya,1,1,0,Argentina,0.0
+83c0eb0c1ebf,1,Gabriel Moraes,0,0,2,Brasil,0.0
+83c0eb0c1ebf,1,Vitor Alves,0,6,0,Brasil,0.0
+83c0eb0c1ebf,0,Mateo Ríos,0,1,0,Argentina,0.0
+83c0eb0c1ebf,1,Natan Lima,0,1,0,Brasil,1.0
+83c0eb0c1ebf,0,Julián Acosta,0,0,2,Argentina,0.0
+83c0eb0c1ebf,0,Tomás Ibarra,0,0,1,Argentina,0.0
+83c0eb0c1ebf,1,Lucas Melo,0,0,1,Brasil,0.0
+6ec28b08ed6d,1,Pedro Reis,0,0,7,Brasil,0.0
+6ec28b08ed6d,1,Vitor Alves,5,15,0,Brasil,0.0
+b4614d184a01,1,Pedro Reis,0,0,6,Brasil,0.0
+b4614d184a01,1,Vitor Alves,1,1,0,Brasil,0.0
+19c70d688cba,1,Pedro Reis,0,0,5,Brasil,0.0
+19c70d688cba,0,Mateo Ríos,0,0,1,Argentina,0.0
+19c70d688cba,1,Davi Almeida,0,0,1,Brasil,0.0
+19c70d688cba,0,Franco Paredes,0,1,0,Argentina,0.0
+19c70d688cba,0,Santiago Moya,0,2,0,Argentina,0.0
+19c70d688cba,1,Enzo Rocha,0,0,1,Brasil,0.0
+0ca9c23f3e3e,1,Pedro Reis,0,0,1,Brasil,0.0
+34891006a8a7,1,Pedro Reis,0,0,1,Brasil,0.0
+34891006a8a7,1,Vitor Alves,1,3,0,Brasil,0.0
+d0cc62eea148,1,Pedro Reis,0,0,1,Brasil,0.0
+a27eb19b3f19,1,Pedro Reis,0,0,2,Brasil,0.0
+a27eb19b3f19,1,Vitor Alves,1,3,0,Brasil,0.0
+668b516c453d,1,Pedro Reis,0,0,2,Brasil,0.0
+aa57b0769bc2,1,Pedro Reis,0,0,1,Brasil,0.0
+aa57b0769bc2,1,Vitor Alves,0,1,0,Brasil,0.0
+bb790e6443b2,1,Pedro Reis,0,0,1,Brasil,0.0
+24b25e6b5033,1,Pedro Reis,0,0,10,Brasil,0.0
+24b25e6b5033,1,Vitor Alves,3,9,0,Brasil,0.0
+24b25e6b5033,1,Enzo Rocha,0,0,1,Brasil,0.0
+24b25e6b5033,1,João Viana,0,0,1,Brasil,0.0
+24b25e6b5033,0,Lautaro Gil,1,1,0,Argentina,0.0
+24b25e6b5033,1,Gabriel Moraes,0,0,2,Brasil,0.0
+4dda0cf3ce6d,1,Pedro Reis,0,0,3,Brasil,0.0
+4dda0cf3ce6d,1,Vitor Alves,0,1,0,Brasil,0.0
+4dda0cf3ce6d,1,Enzo Rocha,0,0,1,Brasil,0.0
+4dda0cf3ce6d,0,Franco Paredes,0,1,0,Argentina,0.0
+4dda0cf3ce6d,0,Santiago Moya,0,1,0,Argentina,0.0
+4dda0cf3ce6d,0,Damián Cruz,0,1,0,Argentina,0.0
+0034c6f412a3,1,Pedro Reis,0,0,1,Brasil,0.0
+0034c6f412a3,1,Vitor Alves,0,3,0,Brasil,0.0
+0034c6f412a3,0,Bruno Sosa,0,3,0,Argentina,0.0
+0034c6f412a3,1,João Viana,0,0,2,Brasil,0.0
+1c25f69d56b0,1,Pedro Reis,0,0,2,Brasil,0.0
+1c25f69d56b0,1,Vitor Alves,0,2,0,Brasil,0.0
+1c25f69d56b0,0,Mateo Ríos,0,1,0,Argentina,0.0
+1c25f69d56b0,0,Santiago Moya,1,17,0,Argentina,0.0
+1c25f69d56b0,1,Gabriel Moraes,0,0,1,Brasil,0.0
+c57cc4fad3f9,1,Pedro Reis,0,0,4,Brasil,0.0
+c57cc4fad3f9,1,Vitor Alves,0,5,0,Brasil,0.0
+c57cc4fad3f9,1,Natan Lima,2,2,0,Brasil,1.0
+e06baac67441,1,Enzo Rocha,0,0,2,Brasil,0.0
+e06baac67441,1,Lucas Melo,0,3,0,Brasil,0.0
+e06baac67441,1,Pedro Reis,1,1,0,Brasil,0.0
+75ae35499aba,1,Enzo Rocha,0,0,5,Brasil,0.0
+75ae35499aba,1,Lucas Melo,2,3,0,Brasil,0.0
+75ae35499aba,0,Franco Paredes,0,18,0,Argentina,0.0
+0cac6369c031,1,Enzo Rocha,0,0,2,Brasil,0.0
+0cac6369c031,1,Lucas Melo,0,2,0,Brasil,0.0
+0cac6369c031,1,João Viana,0,0,1,Brasil,0.0
+0cac6369c031,1,Pedro Reis,1,1,0,Brasil,1.0
+6c1b9a6fd0b9,1,Enzo Rocha,0,0,5,Brasil,0.0
+6c1b9a6fd0b9,1,Lucas Melo,2,4,0,Brasil,0.0
+6c1b9a6fd0b9,0,Franco Paredes,0,3,0,Argentina,0.0
+6c1b9a6fd0b9,0,Thiago Luna,0,1,1,Argentina,0.0
+6c1b9a6fd0b9,0,Nicolás Vera,0,0,1,Argentina,0.0
+a7467979c4cd,1,Enzo Rocha,0,0,6,Brasil,0.0
+a7467979c4cd,1,Lucas Melo,1,1,0,Brasil,0.0
+2d366de45782,1,Enzo Rocha,1,1,6,Brasil,0.0
+2d366de45782,0,Franco Paredes,0,6,0,Argentina,0.0
+f02ac7142958,1,Pedro Reis,0,0,3,Brasil,0.0
+f02ac7142958,1,Gabriel Moraes,0,1,0,Brasil,0.0
+f02ac7142958,0,Bruno Sosa,0,0,0,Argentina,1.0
+f02ac7142958,1,Enzo Rocha,0,0,1,Brasil,0.0
+f02ac7142958,0,Franco Paredes,0,1,1,Argentina,0.0
